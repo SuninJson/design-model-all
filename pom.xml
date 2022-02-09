@@ -12,6 +12,7 @@
         <module>decorator</module>
         <module>observer</module>
         <module>strategy</module>
+        <module>proxy</module>
     </modules>
 
     <dependencyManagement>

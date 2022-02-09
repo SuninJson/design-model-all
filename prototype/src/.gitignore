@@ -25,5 +25,4 @@
 hs_err_pid*
 
 /.idea/
-/design-model-all.iml
-/proxy/proxy.iml
+/prototype.iml
